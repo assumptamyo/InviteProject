@@ -1,4 +1,6 @@
 import java.sql.*;
 class Test{
 	public static void main(String args[]){
+
 		String url = "jdbc:mysql://localhost:3306";
+realabdulmohsin@gmail
